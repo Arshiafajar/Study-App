@@ -1,6 +1,12 @@
 <img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/598f2fd4-ea48-463e-b4c2-a6b060da2eec" />
 
+<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/fa4d0e52-abd2-411f-a430-3edcb6f4b55c" />
 
+The student portal looks like this. <img width="1528" height="950" alt="image" src="https://github.com/user-attachments/assets/90e65097-5658-4b6b-a274-61d1cfa27ce3" />
+
+Everyday, a task is completed, a cherry is collected. 
+
+<img width="1098" height="955" alt="image" src="https://github.com/user-attachments/assets/9f3633b8-2fac-4d77-907d-e273a9956c3a" />
 
 # Maida's Cherry Tasks
 
