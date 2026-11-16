@@ -1,3 +1,7 @@
+<img width="1912" height="964" alt="image" src="https://github.com/user-attachments/assets/598f2fd4-ea48-463e-b4c2-a6b060da2eec" />
+
+
+
 # Maida's Cherry Tasks
 
 Installable offline web app. Maida opens `index.html` (her view). You open `teacher.html` (login required) to add tasks.
