@@ -4,6 +4,9 @@
 
 The student portal looks like this. <img width="1528" height="950" alt="image" src="https://github.com/user-attachments/assets/90e65097-5658-4b6b-a274-61d1cfa27ce3" />
 
+Everyday student gets a spin and has the option to use it right away or save it for later.
+<img width="1503" height="954" alt="image" src="https://github.com/user-attachments/assets/819f894b-53c1-409b-948f-d49eb78f8da1" />
+
 Everyday, a task is completed, a cherry is collected. 
 
 <img width="1098" height="955" alt="image" src="https://github.com/user-attachments/assets/9f3633b8-2fac-4d77-907d-e273a9956c3a" />
